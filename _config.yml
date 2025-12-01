@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 曾云浩 Blog
+SEOTitle: 曾云浩的博客 | Yunhao's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: 1456292392@qq.com
+description: "这是曾云浩的个人空间，用来记录生活点滴、读书心得与日常思考。欢迎你来坐坐。"
+keyword: "曾云浩, 随笔, 博客, 生活记录, 读书笔记, 思考, 分享, 个人网站"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
